@@ -1,11 +1,5 @@
 # Projects
-This portfolio includes 1 project completed as a part of my university studies and 2 projects completed as a part of my personal ventures.
-
-# Principles of Programming 1 Java Project
-This is a Java project that was completed for the Principles of Programming 1 module. 
-It is an object oriented program (due to it being coded using Java). 
-It is a dungeon crawler that has an AI (bot) component that attempts to either catch the player or win the game itself. 
-This was done with a priority level that was install in order to maximise the efficiency of the bot.
+This portfolio includes 2 projects completed as a part of my personal ventures.
 
 # Personal Encryption Python Project
 This is a Python project that was completed for my personal amusement.
