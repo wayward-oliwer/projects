@@ -24,16 +24,6 @@ As part of my university degree, I had to complete multiple courseworks that dis
 However, the university prevents me from sharing this coursework online and hence, I would not able to add it to this profolio.
 This is why I will do some brief descriptions of each one of the projects instead.
 
-## Scam Filtering Software
-This software was made during my Natural Language Processing module. It involved using a database of 10,000 positive reviews and 10,000 negative reviews.
-This database was then split between training, validation and testing data sets. The split selected was 70:20:10 as natural language processing requires heavy training for maximised accuracy and therefore 70% of the data was used in the training.
-
-The classification approach for this coursework was the Naive-Bayes approach and our implementation was later compared with the implementation in the SkLearn library.
-My implementation ended up being on par with the SkLearn library's implementation.
-
-The features of the filtering were bad by removing common words and words of short lengths and using TF-IDF as the value of each term within a review.
-This software was written in Python.
-
 ## Theatre Rating Web Application
 This application was designed for computer web browsers and was written with 4 other developers.
 It utilised JavaScript to create the front-end and as the web application was simply supposed to be a prototype for the stakeholders, the back-end was minimal due to the tight deadline assigned for this project.
